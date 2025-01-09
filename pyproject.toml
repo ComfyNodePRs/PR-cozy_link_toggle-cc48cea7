@@ -7,7 +7,6 @@ dependencies = []
 
 [project.urls]
 Repository = "https://github.com/cozy-comfyui/cozy_link_toggle"
-#  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
 PublisherId = "amorano"
